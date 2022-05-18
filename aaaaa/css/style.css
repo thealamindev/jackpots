@@ -1,0 +1,13 @@
+.about_item{
+    background-color: yellowgreen;
+    padding: 15px;
+    border-right: 5px solid red;
+}
+
+.logo img{
+    width: 100px;
+}
+h2{
+    font-size: 60px;
+    color:brown ;
+}
